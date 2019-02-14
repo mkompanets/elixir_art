@@ -30,13 +30,10 @@ ElixirArt.Hypnotoad.create_gif
 ![hypnotoad_multi](https://github.com/mkompanets/elixir_art/blob/master/imgs/hypnotoad/hypnotoad_multi.gif)
 
 
-
-
-
-
 # Seizure Warning
-
-
+# Seizure Warning
+# Seizure Warning
+# Seizure Warning
 
 
 *alternating all colors per gif frame*
