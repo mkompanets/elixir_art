@@ -1,21 +1,32 @@
 # ElixirArt
 
-**TODO: Add description**
+**"art" generated with elixir**
 
-## Installation
+## MUST HAVE [imagemagick](http://www.imagemagick.org) installed locally
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `elixir_art` to your list of dependencies in `mix.exs`:
+## This project depends on [mogrify](https://github.com/route/mogrify) for image generation
+
 
 ```elixir
-def deps do
-  [
-    {:elixir_art, "~> 0.1.0"}
-  ]
-end
+# creates a single png
+ElixirArt.Hypnotoad.create
+
+# creates multiple images for gif generation
+ElixirArt.Hypnotoad.create_gif
 ```
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/elixir_art](https://hexdocs.pm/elixir_art).
+## Hypnotoad
 
+![hypnotoad_static](https://github.com/mkompanets/elixir_art/blob/master/imgs/hypnotoad/hypnotoad_static.png)
+
+![hypnotoad](https://github.com/mkompanets/elixir_art/blob/master/imgs/hypnotoad/hypnotoad.gif)
+
+*Seizure WARNING*
+![hypnotoad_crazy](https://github.com/mkompanets/elixir_art/blob/master/imgs/hypnotoad/hypnotoad_crazy.gif)
+
+![hypnotoad_multi_static](https://github.com/mkompanets/elixir_art/blob/master/imgs/hypnotoad/hypnotoad_multi.png)
+
+![hypnotoad_multi](https://github.com/mkompanets/elixir_art/blob/master/imgs/hypnotoad/hypnotoad_multi.gif)
+
+*Seizure WARNING*
+![hypnotoad_multi_crazy](https://github.com/mkompanets/elixir_art/blob/master/imgs/hypnotoad/hypnotoad_multi_crazy.gif)
