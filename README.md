@@ -21,12 +21,10 @@ ElixirArt.Hypnotoad.create_gif
 
 ![hypnotoad](https://github.com/mkompanets/elixir_art/blob/master/imgs/hypnotoad/hypnotoad.gif)
 
-*Seizure WARNING*
 ![hypnotoad_crazy](https://github.com/mkompanets/elixir_art/blob/master/imgs/hypnotoad/hypnotoad_crazy.gif)
 
-![hypnotoad_multi_static](https://github.com/mkompanets/elixir_art/blob/master/imgs/hypnotoad/hypnotoad_multi.png)
+![hypnotoad_multi_static](https://github.com/mkompanets/elixir_art/blob/master/imgs/hypnotoad/hypnotoad_multi_static.png)
 
 ![hypnotoad_multi](https://github.com/mkompanets/elixir_art/blob/master/imgs/hypnotoad/hypnotoad_multi.gif)
 
-*Seizure WARNING*
 ![hypnotoad_multi_crazy](https://github.com/mkompanets/elixir_art/blob/master/imgs/hypnotoad/hypnotoad_multi_crazy.gif)
